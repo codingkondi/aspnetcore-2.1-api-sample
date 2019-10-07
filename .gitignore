@@ -1,0 +1,14 @@
+src/MyCompany.MyProject.DataAccess/obj/
+src/MyCompany.MyProject.DataRepository/obj/
+src/MyCompany.MyProject.DataRepository/bin/Debug/
+src/MyCompany.MyProject.Extensions/bin/Debug/
+src/MyCompany.MyProject.Extensions/obj/Debug/
+src/MyCompany.MyProject.Logic/bin/Debug/
+src/MyCompany.MyProject.Logic/obj/
+src/MyCompany.MyProject.Models/bin/Debug/
+src/MyCompany.MyProject.Models/obj/
+src/MyCompany.MyProject.Service/.vs/StorageService/DesignTimeBuild/
+src/MyCompany.MyProject.Service/bin/Debug/
+src/MyCompany.MyProject.Service/bin/Release/
+src/MyCompany.MyProject.Service/obj/
+src/MyCompany.MyProject.DataAccess/bin/Debug/

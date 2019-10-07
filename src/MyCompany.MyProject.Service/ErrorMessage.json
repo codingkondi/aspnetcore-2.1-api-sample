@@ -1,0 +1,20 @@
+{
+  "ErrorMessages": {
+    "9000": "Request Format is null!",
+    "9001": "Token is Invalid!",
+    "9002": "Token is Required",
+    "9003": "Expection Problem has happend",
+    "9004": "{Key} Database updated failed",
+    "9005": "{Key} Data not found",
+    "9006": "Update Erp data failed",
+    "9991": "Request Format is null!.",
+    "9992": "Token is Required.",
+    "9993": "Expection Problem has happend.",
+    "9994": "{Key} format is null.",
+    "9995": "{Key} is invalid.",
+    "9996": "{Key} is duplicated.",
+    "9997": "{Key} length is wrong.",
+    "9998": "{Key} type is wrong.",
+    "9999": "{Key} can't be null."
+  }
+}
