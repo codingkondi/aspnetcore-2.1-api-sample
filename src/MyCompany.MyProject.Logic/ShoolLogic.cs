@@ -26,7 +26,7 @@ namespace MyCompany.MyProject.Logic
                 UserName = request.Name,
                 UserAge = request.Age
             };
-            if (_unitOfWorks.UsersRepository.Get(x => x.UserAge == request.Age && x.UserName == request.Name).Count() > 0)
+            if (_unitOfWorks.UsersRepository.Get(x => x.UserAge == request.Age && x.UserName == request.Name).Count() = 0)
             {
                 response.SetFailedError(_errorSettings.SetError("", EnumMasterErrorCode.DataFailed, EnumSeqMessage.Is_Duplicated));
                 return response;
